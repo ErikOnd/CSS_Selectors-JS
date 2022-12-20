@@ -1,0 +1,57 @@
+/*1*/
+h1 {
+    color: green;
+}
+
+/*2*/
+nav span {}
+
+/*3*/
+.jumbotron.p-4.p-md-5.rounded .font-weight-bold {
+    background-color: white;
+}
+
+/*4*/
+.blog-post:first-of-type {
+    background-color: white;
+}
+
+/*5*/
+.blog-post:first-of-type hr {
+    background-color: red;
+}
+
+/*6*/
+nav span:nth-of-type(even) {
+    color: blue;
+}
+
+/*7*/
+.list-unstyled.mb-0 li {
+    background-color: blue;
+}
+
+/*8*/
+.list-unstyled li {
+    background-color: red;
+}
+
+/*9*/
+.blog-post:last-of-type li:nth-of-type(2) {
+    background-color: aquamarine;
+}
+
+/*10*/
+.float-right.mb-3.mr-3 {
+    color: red;
+}
+
+/*11*/
+a[aria-disabled="true"] {
+    color: blue;
+}
+
+/*12*/
+footer a:nth-of-type(2) {
+    background-color: black;
+}
